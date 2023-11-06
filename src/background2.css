@@ -1,0 +1,10 @@
+/* App.css */
+
+.background2 {
+    background-image: url('./background2.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  

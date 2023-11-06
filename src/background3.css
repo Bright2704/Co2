@@ -1,0 +1,9 @@
+/* App.css */
+
+.background3 {
+    background-image: url('./background3.jpeg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+  }

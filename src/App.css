@@ -1,0 +1,11 @@
+/* In your App.css file or equivalent */
+.transparent-navbar {
+  background-color: rgba(0, 0, 0, 0) !important; /* Make sure it overrides Bootstrap styles */
+  color: white !important; 
+  height: auto !important;
+  
+}
+
+.transparent-navbar a {
+  font-size: 20px;
+}
