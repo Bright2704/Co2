@@ -8,4 +8,17 @@
 
 .transparent-navbar a {
   font-size: 20px;
+  margin-left: 40px;
 }
+
+.action {
+  background: #0e0e0e;
+  color: white;
+  border-radius: 2rem;
+  display: inline-block;
+}
+
+
+
+
+

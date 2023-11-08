@@ -5,6 +5,13 @@
     background-size: cover;
     background-position: center;
     width: 100vw;
-    height: 100vh;
+    height: 100vh;  
+    display: flex;          /* กำหนดให้เป็น Flex container */
+      /* จัดชิดขวา */
+      align-items: flex-start;   /* จัดชิดด้านบน */
+      padding-top: 30px;         /* ระยะห่างจากด้านบน */
+      padding-right: 100px;       /* ระยะห่างจากด้านขวา */
+      padding-bottom: 20px;      /* ระยะห่างจากด้านล่าง */
+      padding-left: 40px;        /* ระยะห่างจากด้านซ้าย */
   }
   
